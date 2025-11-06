@@ -34,5 +34,20 @@ img {
 }
 
 button {
+  margin: 0;
+  padding: 0;
+  border: none;
+  background-color: transparent;
   font: inherit;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+li {
+    margin: 0;
+    padding: 0;
 }
