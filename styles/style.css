@@ -23,7 +23,7 @@
     text-decoration: none;
 }
 
-.header__item_active .underline__link {
+.item_active .underline__link {
     text-decoration: none;
 }
 
@@ -225,11 +225,11 @@
     grid-template-columns: 334px 1fr;
 }
 
-.about__column-first {
+.about__column-logo {
     padding-top: 35px;
 }
 
-.about__column-secend {
+.about__column-content {
     padding: 133px 0px 0px 25px;
 }
 
@@ -275,10 +275,6 @@
     display:flex;
     flex-direction: column;
     align-items: center;
-}
-
-.footer__menu-link_active .underline__link {
-    text-decoration: none;
 }
 
 .footer__social-list {
